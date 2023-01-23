@@ -15,6 +15,14 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 |   Audio         |    Realtek ALC892 onboard                       |
 |   Wireless      |    BCM94360CD                                   |
 
+## Compatibility testing
+
+- [x] Sleep support
+- [x] GPU hardware acceleration support
+- [x] Wi-Fi, Bluetooth support
+- [x] Handoff, AirDrop, AirPlay, SideCar support
+- [x] iCloud, App Store, Apple Music support
+
 ## Note
 
 - USB info modified, it should be re-modified for different PC case before use it
@@ -26,3 +34,6 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap03.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap01.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap02.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap05.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap06.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap07.png)
