@@ -5,7 +5,7 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Specification
 
-|                 |                                                 |
+|   Components    |    Brand or Model                               |
 | :-------------: | :---------------------------------------------: |
 |   Motherboard   |    Gigabyte B365M Aorus Elite                   |
 |   CPU           |    Intel i5-9600k                               |
@@ -17,8 +17,8 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Note
 
-- USB 已定制，鉴于每个人机箱 USB 和蓝牙 USB 插口插法可能不同，若要使用建议移除相关文件
-- 三码信息已移除，需要自行填写
+- USB info modified, it should be re-modified for different PC case before use it
+- Serial Number info has been removed, it should be added before use it
 
 ## Screenshots
 
