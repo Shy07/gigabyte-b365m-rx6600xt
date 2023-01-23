@@ -35,6 +35,7 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap01.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap02.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap05.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap09.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap06.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap07.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap08.png)
