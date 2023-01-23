@@ -21,7 +21,7 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 - [x] GPU hardware acceleration support
 - [x] Wi-Fi, Bluetooth support
 - [x] Handoff, AirDrop, AirPlay, SideCar support
-- [x] iCloud, App Store, Apple Music support
+- [x] Apple ID, iCloud, App Store, Apple Music support
 
 ## Note
 
@@ -30,10 +30,10 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap04.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap03.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap01.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap02.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap05.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap06.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/snap07.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap04.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap03.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap01.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap02.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap05.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap06.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap07.png)
