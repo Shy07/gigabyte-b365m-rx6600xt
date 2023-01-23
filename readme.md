@@ -1,12 +1,12 @@
 # Gigabyte-B365M-RX470
 ---
 
-Opencore 0.8.8 configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
+OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Specification
 
 |   Components    |    Brand or Model                               |
-| :-------------: | :---------------------------------------------: |
+| :-------------- | :---------------------------------------------- |
 |   Motherboard   |    Gigabyte B365M Aorus Elite                   |
 |   CPU           |    Intel i5-9600k                               |
 |   Graphic       |    AMD Radeon RX 470 4G                         |
