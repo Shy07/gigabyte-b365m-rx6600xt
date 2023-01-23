@@ -20,7 +20,7 @@ OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + A
 - [x] Sleep support
 - [x] GPU hardware acceleration support
 - [x] Wi-Fi, Bluetooth support
-- [x] Handoff, AirDrop, AirPlay, SideCar support
+- [x] Handoff, AirDrop, AirPlay, Universal Control support
 - [x] Apple ID, iCloud, App Store, Apple Music support
 
 ## Note
