@@ -33,7 +33,7 @@ Opencore 0.8.8 configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap04.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap03.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap01.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap02.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap10.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap05.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap09.png)
 ![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap06.png)
