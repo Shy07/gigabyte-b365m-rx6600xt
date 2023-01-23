@@ -18,7 +18,7 @@ Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 ## Note
 
 - USB info modified, it should be re-modified for different PC case before use it
-- Serial Number info has been removed, it should be added before use it
+- Serial number info has been removed, it should be added before use it
 
 ## Screenshots
 
