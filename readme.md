@@ -1,7 +1,7 @@
 # Gigabyte-B365M-RX470
 ---
 
-Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
+Opencore 0.8.8 configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Specification
 
