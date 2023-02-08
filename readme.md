@@ -1,7 +1,7 @@
-# Gigabyte-B365M-RX470
+# Gigabyte-B365M-RX6600XT
 ---
 
-OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
+OpenCore (0.8.8) EFI config for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 6600 XT
 
 ## Specification
 
@@ -9,7 +9,7 @@ OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + A
 | :-------------- | :---------------------------------------------- |
 |   Motherboard   |    Gigabyte B365M Aorus Elite                   |
 |   CPU           |    Intel i5-9600k                               |
-|   Graphic       |    AMD Radeon RX 470 4G                         |
+|   Graphic       |    AMD Radeon RX 6600 XT 8GB                    |
 |   Memory        |    Gloway 16GB DDR4 2666MHz * 2                 |
 |   Storage       |    Western Digital M.2 WD_BLACK SN750 500GB * 2 |
 |   Audio         |    Realtek ALC892 onboard                       |
@@ -25,17 +25,16 @@ OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + A
 
 ## Note
 
+- It maybe black screen before login screen when booting, don't worry
 - USB info modified, it should be re-modified for different PC case before use it
 - Serial number info has been removed, it should be added before use it
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap04.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap03.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap01.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap10.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap05.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap09.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap06.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap07.png)
-![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx470/master/screenshots/snap08.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap11.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap12.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap05.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap09.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap06.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap07.png)
+![](https://raw.githubusercontent.com/Shy07/gigabyte-b365m-rx6600xt/master/screenshots/snap08.png)
